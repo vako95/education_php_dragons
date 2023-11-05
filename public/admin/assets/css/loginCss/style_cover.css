@@ -1,0 +1,110 @@
+html, body{
+  
+ 
+ 
+}
+html, body{
+   height: 100%;
+
+
+
+
+
+}
+.main{
+   background: #fff;
+   background-color: #fff;
+}
+.page-header{
+   background-color: #fff;
+   background: #fff;
+}
+
+.inner.cover{
+   margin-top: 100px;
+   margin-bottom:100px;
+}
+.container-fluid .main{
+   background-color: #fff;
+ 
+   
+}
+.navbar-header{
+   background-color:#2786b5;
+
+ 
+   
+}
+
+
+.navbar :hover {
+   background-color:#2786b5;
+
+   
+ 
+   
+}
+
+
+.visitor-portal-container, .navbar :hover {
+
+
+   
+ 
+   
+}
+
+
+.navbar-brand  {
+   background-color:#2786b5;
+
+   
+ 
+   
+}
+
+.f2, input[type='text']:hover{background-color:white;}
+
+
+
+
+
+
+
+
+.visitor-portal-container, .navbar-inverse{
+
+   background-color: #fff;
+   background: #fff;
+
+border-color: #2786b5;
+}
+.div.row::after{
+   background-color: #fff;
+   background: #fff;
+}
+
+.navbar-collapse ,.navbar-right , .navbar-brand, .navbar-inverse{
+   background-color:#2786b5;
+   
+
+}
+
+.visitor-portal-container .navbar-collapse ,.navbar-right , .navbar-brand, .navbar-inverse{
+   background-color:#2786b5;
+
+
+}
+
+
+.navbar-inverse{
+   background-color:#2786b5;
+
+}
+
+.visitor-portal-container .navbar-inverse .navbar-brand,
+.visitor-portal-container .navbar-inverse  .navbar-nav>li>a{
+   color: #fff;
+}
+
+

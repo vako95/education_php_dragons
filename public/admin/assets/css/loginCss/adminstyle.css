@@ -1,0 +1,30 @@
+
+
+.admin-portal-container, .navbar :hover {
+
+ 
+    
+  
+    
+ }
+.f2, input[type='text']:hover{background-color:white;}
+.admin-portal-container, .navbar-inverse{
+ 
+ 
+ border-color: rgb(7, 7, 7);
+ }
+.admin-portal-container .navbar-collapse ,.navbar-right , .navbar-brand, .navbar-inverse{
+    background-color:rgb(7, 7, 7);
+ 
+ 
+ }
+.admin-portal-container .navbar-collapse ,.navbar-right , .navbar-brand, .navbar-inverse :hover{
+    background-color:rgb(7, 7, 7);
+ 
+ 
+ }
+
+
+.admin-portal-container .navbar-inverse .navbar-brand:hover{
+    color: #fff;
+   }
